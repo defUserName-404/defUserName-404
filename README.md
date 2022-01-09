@@ -1,30 +1,34 @@
 ## Hi there! 👋
 
-### 🗣 I am Moshiur Rahman Nafi, 20, from Bangladesh.
+🗣 I am Moshiur Rahman Nafi, 20, from Bangladesh.
 
-### 🎓 Currently a Software Engineering student in Daffodil International University.
+🎓 Currently a Software Engineering student in Daffodil International University.
 
 <p align="center">
     <img width="300" height="200" src="assets/resources/astraunaut.jpg" alt="defUserName-404">
 </p>
 
 ---
-## Follow Me on Social 👥
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moshiur-rahman-nafi-469734229)
-[![indeed](https://img.shields.io/badge/Indeed-2164f3?style=for-the-badge&logo=Indeed&logoColor=white)](https://my.indeed.com/resume?hl=en&co=US&from=gnav-career-guide-webapp)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/moshiurrahman.nafi)
-[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/def_username-404)
-[![xda](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/account/)
 
-[![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/def_UserName)
-[![stopstalk](https://img.shields.io/badge/StopStalk-red?style=for-the-badge&logo=StopStalk&logoColor=white)](https://www.stopstalk.com/user/profile/def_UserName)
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/def_UserName/)
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15433896/def-username)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/def_UserName)
+### Follow Me on Social 👥
+
+[![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/defUserName-404?tab=repositories)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moshiur-rahman-nafi-469734229)
+[![indeed](https://img.shields.io/badge/Indeed-2164f3?style=flat&logo=Indeed&logoColor=white)](https://my.indeed.com/resume?hl=en&co=US&from=gnav-career-guide-webapp)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/moshiurrahman.nafi)
+[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/def_username-404)
+[![xda](https://img.shields.io/badge/xda%20Developers-2DAAE9?style=flat&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/account/)
+
+[![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/def_UserName)
+[![stopstalk](https://img.shields.io/badge/StopStalk-red?style=flat&logo=StopStalk&logoColor=white)](https://www.stopstalk.com/user/profile/def_UserName)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/def_UserName/)
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=brown)](https://stackoverflow.com/users/15433896/def-username)
+[![hackerrank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/def_UserName)
 
 ---
 
-## Languages and Tools 👨🏾‍💻
+### Languages and Tools 👨🏾‍💻
+
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -40,14 +44,20 @@
 ![junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-
-
 ---
+## Stats 📊
+I am highly enthuastic in coding who spends 40 hours a week in coding on average.  
 <details>
-<summary>Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=defUserName-404&disable_year=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="Moshiur Rahman Nafi"  />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=defUserName-404&disable_year=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="Moshiur Rahman Nafi"  />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=defUserName-404&theme=dark)](https://github.com/defUserName-404?tab=repositories)
+<p align="center">
+    <img src="https://wakatime.com/share/@defUserName_404/5ba802cb-b833-4245-a255-9e7d8ef82e2d.svg" height="400" alt="Time Spend Coding">
+</p>
 
-[![Moshiur Rahman Nafi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=defUserName_404&theme=dark)]
+<p align="center">
+    <img src="https://wakatime.com/share/@defUserName_404/7959a83b-1387-422f-9d86-b5988d866d95.svg" height="400" alt="Languages">
+</p>
+
 </details>
