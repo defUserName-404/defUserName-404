@@ -1,4 +1,4 @@
-name: Update README with my latest coding stats
+name: Update README Stats
 
 on:
   schedule:
@@ -6,12 +6,12 @@ on:
 
 jobs:
   update-Readme:
-    name: Automatically update my README  
+    name: Update README Stats  
     runs-on: ubuntu-latest
     steps:
       - uses: defUserName_404/coding-stats-wakatime@v1.0.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_MONTHLY: true
-          GITHUB_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_ACTION: ${{ github.action }}
