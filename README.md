@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 🗣 I am Moshiur Rahman Nafi, 20, from Bangladesh.
 
@@ -47,17 +47,9 @@
 ---
 ## Stats 📊
 I am highly enthuastic in coding who spends 40 hours a week in coding on average.  
-<details>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=defUserName-404&disable_year=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="Moshiur Rahman Nafi"  />
-</p>
 
-<p align="center">
-    <img src="https://wakatime.com/share/@defUserName_404/5ba802cb-b833-4245-a255-9e7d8ef82e2d.svg" height="400" alt="Time Spend Coding">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=defUserName-404&disable_year=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="Moshiur Rahman Nafi"  />
 
-<p align="center">
-    <img src="https://wakatime.com/share/@defUserName_404/7959a83b-1387-422f-9d86-b5988d866d95.svg" height="400" alt="Languages">
-</p>
+<img src="https://wakatime.com/share/@defUserName_404/5ba802cb-b833-4245-a255-9e7d8ef82e2d.svg" height="400" alt="Time Spend Coding">
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defUserName-404&langs_count=10&theme=dark)]
