@@ -50,6 +50,5 @@ I am highly enthuastic in coding who spends 40 hours a week in coding on average
 
 <img src="https://github-readme-stats.vercel.app/api?username=defUserName-404&disable_year=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="Moshiur Rahman Nafi"  />
 
-<img src="https://wakatime.com/share/@defUserName_404/5ba802cb-b833-4245-a255-9e7d8ef82e2d.svg" height="400" alt="Time Spend Coding">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defUserName-404&langs_count=10&theme=dark)]
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
