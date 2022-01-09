@@ -23,6 +23,7 @@
 - Bash
 
 #### 👨🏾‍💻 Others:
+
 - git
 - MySQL
 - Data Structures and Algorithms
@@ -30,8 +31,12 @@
 - Design Pattern
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=defUserName-404&show_icons=true&count_private=true&theme=dark" alt="Moshiur Rahman Nafi" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=defUserName-404&show_icons=true&count_private=true&theme=dark" alt="Moshiur Rahman Nafi"  />
+
 
 <!--START_SECTION:waka-->
+
+<align="center>[![Moshiur Rahman Nafi's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=defUserName_404&theme=dark)](https://github.com/defUserName-404/github-readme-stats)
 
 <!--END_SECTION:waka-->
