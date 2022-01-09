@@ -48,7 +48,9 @@
 ## Stats 📊
 I am highly enthuastic in coding who spends 40 hours a week in coding on average.  
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=defUserName-404&disable_year=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="Moshiur Rahman Nafi"  />
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2016%20mins-blue)
