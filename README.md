@@ -53,8 +53,6 @@ I am highly enthuastic in coding who spends 40 hours a week in coding on average
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -70,10 +68,10 @@ I am highly enthuastic in coding who spends 40 hours a week in coding on average
 
 ```text
 Monday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-Tuesday      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Wednesday    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.93% 
+Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+Wednesday    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
 Thursday     44 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
-Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Friday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 Saturday     36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
 Sunday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.57%
 
@@ -112,5 +110,5 @@ Shell                    1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 13/01/2022
+ Last Updated on 14/01/2022
 <!--END_SECTION:waka-->
