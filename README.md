@@ -53,6 +53,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=defUserName-404&disable_year=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="Moshiur Rahman Nafi"  />
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
