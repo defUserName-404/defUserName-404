@@ -10,23 +10,6 @@
 
 ---
 
-### Follow Me on Social 👥
-
-[![github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/defUserName-404?tab=repositories)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moshiur-rahman-nafi-469734229)
-[![indeed](https://img.shields.io/badge/Indeed-2164f3?style=plastic&logo=Indeed&logoColor=white)](https://my.indeed.com/resume?hl=en&co=US&from=gnav-career-guide-webapp)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/moshiurrahman.nafi)
-[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)](https://www.reddit.com/user/def_username-404)
-[![xda](https://img.shields.io/badge/xda%20Developers-2DAAE9?style=plastic&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/account/)
-
-[![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=plastic&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/def_UserName)
-[![stopstalk](https://img.shields.io/badge/StopStalk-red?style=plastic&logo=StopStalk&logoColor=white)](https://www.stopstalk.com/user/profile/def_UserName)
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black)](https://leetcode.com/def_UserName/)
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=brown)](https://stackoverflow.com/users/15433896/def-username)
-[![hackerrank](https://img.shields.io/badge/-HackerRank-2EC866?style=plastic&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/def_UserName)
-
----
-
 ### Languages and Tools 👨🏾‍💻
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -45,6 +28,19 @@
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### Follow Me on Social 👥
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:moshiur.r.nafi@gmail.com)
+[![github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/defUserName-404?tab=repositories)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moshiur-rahman-nafi-469734229)
+
+[![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=plastic&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/def_UserName)
+[![stopstalk](https://img.shields.io/badge/StopStalk-red?style=plastic&logo=StopStalk&logoColor=white)](https://www.stopstalk.com/user/profile/def_UserName)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black)](https://leetcode.com/def_UserName/)
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=brown)](https://stackoverflow.com/users/15433896/def-username)
+[![hackerrank](https://img.shields.io/badge/-HackerRank-2EC866?style=plastic&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/def_UserName)
 
 ---
 
