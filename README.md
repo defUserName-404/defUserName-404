@@ -14,17 +14,15 @@
 
 🌱 Always learning, always building.
 
-🌐 Portfolio: [moshiur-r-nafi.netlify.app](https://moshiur-r-nafi.netlify.app/)
-
 ---
 
 ### Currently ⚡
 
-🔭 Building mobile apps and backend services
+🧩 Turning messy real-world problems into simple, reliable software
 
-🌱 Learning more about system design and AI-assisted development
+🔭 Exploring better ways to design systems that stay simple as they grow
 
-💬 Ask me about Flutter, Go and backend architecture
+💬 Ask me about breaking down complex problems and shipping products end to end
 
 ---
 
@@ -84,15 +82,12 @@
 | Zero Hunger | Real-time app matching food donors with nearby volunteers. *(private)* | Flutter, Supabase, PostGIS, FCM |
 | [tome](https://github.com/defUserName-404/tome) | Personal assistant that answers questions from your notes, books and docs, with citations. | Python, Redis Stack, RedisVL |
 
-More on my [portfolio](https://moshiur-r-nafi.netlify.app/) and [repositories](https://github.com/defUserName-404?tab=repositories).
+More on my [repositories](https://github.com/defUserName-404?tab=repositories).
 
 ---
 
 ### Follow Me on Social 👥
-[![portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=netlify&logoColor=00C7B7)](https://moshiur-r-nafi.netlify.app/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:moshiur.r.nafi@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/defUserName-404?tab=repositories)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/moshiur-rahman-nafi-469734229)
 [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=plastic&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/def_UserName)
 [![stopstalk](https://img.shields.io/badge/StopStalk-red?style=plastic&logo=StopStalk&logoColor=white)](https://www.stopstalk.com/user/profile/def_UserName)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black)](https://leetcode.com/def_UserName/)
