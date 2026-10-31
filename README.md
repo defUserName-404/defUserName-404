@@ -108,5 +108,13 @@ More on my [portfolio](https://moshiur-r-nafi.netlify.app/) and [repositories](h
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=defUserName-404&label=Profile+views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
