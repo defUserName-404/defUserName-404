@@ -75,19 +75,6 @@
 
 ---
 
-### Featured Projects 🚀
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Focus](https://github.com/defUserName-404/focus)<br>![stars](https://img.shields.io/github/stars/defUserName-404/focus?style=flat) ![last commit](https://img.shields.io/github/last-commit/defUserName-404/focus?style=flat) | Offline, privacy-first Pomodoro timer and task manager for Android, iOS, Linux, macOS and Windows. | Flutter, Riverpod, Drift, SQLite |
-| Stockify | Offline-first desktop inventory app with live multi-user sync. *(private)* | Flutter, Go (FFI), WebSockets, PostgreSQL |
-| Zero Hunger | Real-time app matching food donors with nearby volunteers. *(private)* | Flutter, Supabase, PostGIS, FCM |
-| [tome](https://github.com/defUserName-404/tome)<br>![stars](https://img.shields.io/github/stars/defUserName-404/tome?style=flat) ![last commit](https://img.shields.io/github/last-commit/defUserName-404/tome?style=flat) | Personal assistant that answers questions from your notes, books and docs, with citations. | Python, Redis Stack, RedisVL |
-
-More on my [repositories](https://github.com/defUserName-404?tab=repositories).
-
----
-
 ### Follow Me on Social 👥
 [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=plastic&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/def_UserName)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black)](https://leetcode.com/def_UserName/)
