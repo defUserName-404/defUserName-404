@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Usage: languages-card.sh <github-login> <out.svg>
-# Needs GH_TOKEN. Sums language bytes over the user's own non-fork repos.
+# Needs GH_TOKEN. Weights each repo equally (its language shares, not raw bytes, so huge repos do not drown the rest) over every non-fork repo the user owns, collaborates on or reaches through an org.
 set -euo pipefail
 
 login="$1"
@@ -9,10 +9,11 @@ out="$2"
 gh api graphql --paginate -F login="$login" -f query='
   query($login: String!, $endCursor: String) {
     user(login: $login) {
-      repositories(first: 100, after: $endCursor, ownerAffiliations: OWNER, isFork: false) {
+      repositories(first: 100, after: $endCursor, ownerAffiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER], isFork: false) {
         pageInfo { hasNextPage endCursor }
         nodes {
           languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
+            totalSize
             edges { size node { name color } }
           }
         }
@@ -22,13 +23,13 @@ gh api graphql --paginate -F login="$login" -f query='
   def esc: gsub("&"; "&amp;") | gsub("<"; "&lt;");
   def pct($n; $t): (($n * 1000 / $t | round) / 10 | tostring) + "%";
 
-  [.[].data.user.repositories.nodes[].languages.edges[]]
+  [.[].data.user.repositories.nodes[].languages | select(.totalSize > 0) | .totalSize as $t | .edges[] | .size = (.size / $t)]
   | group_by(.node.name)
   | map({name: .[0].node.name, color: (.[0].node.color // "#8b949e"), size: (map(.size) | add)})
   | sort_by(-.size) as $all
   | ($all | map(.size) | add) as $total
-  | ($all[8:] | map(.size) | add // 0) as $rest
-  | ($all[0:8] + (if $rest > 0 then [{name: "Other", color: "#8b949e", size: $rest}] else [] end)) as $items
+  | ($all[10:] | map(.size) | add // 0) as $rest
+  | ($all[0:10] + (if $rest > 0 then [{name: "Other", color: "#8b949e", size: $rest}] else [] end)) as $items
   | (($items | length + 1) / 2 | floor) as $rows
   | (78 + $rows * 22 + 6) as $height
   | (reduce $items[] as $i ({x: 12, bars: ""};
