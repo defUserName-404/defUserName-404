@@ -89,6 +89,24 @@
   <img src="https://streak-stats.demolab.com/?user=defUserName-404&theme=dark&background=151515&date_format=j%20M%5B%20Y%5D" height="165" alt="Contribution streak"/>
 </p>
 
+#### A year of commits, in 3D 🏙️
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-metrics.svg" alt="GitHub metrics"/>
+  <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-skyline.svg" alt="Isometric contribution skyline"/>
+</p>
+
+#### When I code, what I code in, and what I've unlocked 🕹️
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-habits.svg" alt="Coding habits and achievements"/>
+</p>
+
+#### Snake vs. my contribution graph 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake-light.svg"/>
+    <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake.svg" alt="Snake eating my contributions"/>
+  </picture>
 </p>
