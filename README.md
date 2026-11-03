@@ -86,5 +86,9 @@
 ### Stats 📊
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=defUserName-404&theme=dark&background=151515&date_format=j%20M%5B%20Y%5D" height="165" alt="Contribution streak"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-metrics.svg" alt="GitHub metrics"/>
 </p>
