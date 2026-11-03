@@ -89,24 +89,49 @@
   <img src="https://streak-stats.demolab.com/?user=defUserName-404&theme=dark&background=151515&date_format=j%20M%5B%20Y%5D" height="165" alt="Contribution streak"/>
 </p>
 
-#### A year of commits, in 3D 🏙️
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-skyline.svg" alt="Isometric contribution skyline"/>
+  <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-isocalendar.svg" alt="Isometric contribution calendar"/>
 </p>
 
-#### When I code, what I code in, and what I've unlocked 🕹️
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-habits.svg" alt="Coding habits and achievements"/>
-</p>
-
-#### Snake vs. my contribution graph 🐍
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake-light.svg"/>
-    <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake.svg" alt="Snake eating my contributions"/>
-  </picture>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>💻 Languages</b><br/>
+      <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-languages.svg" width="100%" alt="💻 Languages"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>⏰ Coding habits</b><br/>
+      <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-habits.svg" width="100%" alt="⏰ Coding habits"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>🏆 Achievements</b><br/>
+      <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-achievements.svg" width="100%" alt="🏆 Achievements"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>🔀 Pull requests and issues</b><br/>
+      <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-followup.svg" width="100%" alt="🔀 Pull requests and issues"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>📌 Pinned repositories</b><br/>
+      <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-pinned.svg" width="100%" alt="📌 Pinned repositories"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>⭐ Stars and topics</b><br/>
+      <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-stars.svg" width="100%" alt="⭐ Stars and topics"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>🧑‍💻 Latest code</b><br/>
+      <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-code.svg" width="100%" alt="🧑‍💻 Latest code"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>⚡ Recent activity</b><br/>
+      <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-activity.svg" width="100%" alt="⚡ Recent activity"/>
+    </td>
+  </tr>
+</table>

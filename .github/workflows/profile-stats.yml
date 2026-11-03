@@ -11,9 +11,9 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
-      - name: Isometric contribution skyline
+      - name: Isometric calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -21,12 +21,30 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Dhaka
-          filename: github-skyline.svg
+          filename: github-isocalendar.svg
           committer_branch: output
-          plugin_isometric: yes
-          plugin_isometric_duration: full-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-      - name: Habits and achievements
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: defUserName-404
+          template: classic
+          base: ""
+          config_timezone: Asia/Dhaka
+          filename: github-languages.svg
+          committer_branch: output
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: percentage, lines
+
+      - name: Habits
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -41,33 +59,91 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: defUserName-404
+          template: classic
+          base: ""
+          config_timezone: Asia/Dhaka
+          filename: github-achievements.svg
+          committer_branch: output
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
           plugin_achievements_display: compact
-          plugin_achievements_limit: 8
+          plugin_achievements_limit: 10
 
-  snake:
-    needs: metrics
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+      - name: Pull request and issue follow-up
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github-dark
-            dist/github-snake-light.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: defUserName-404
+          template: classic
+          base: ""
+          config_timezone: Asia/Dhaka
+          filename: github-followup.svg
+          committer_branch: output
+          plugin_followup: yes
+          plugin_followup_sections: user, repositories
 
-      - name: Publish to output branch
-        run: |
-          git clone --branch output --single-branch --depth 1 \
-            "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" out
-          cp dist/github-snake.svg dist/github-snake-light.svg out/
-          cd out
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add github-snake.svg github-snake-light.svg
-          git diff --cached --quiet || git commit -m "chore: update snake"
-          git push
+      - name: Pinned repositories
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: defUserName-404
+          template: classic
+          base: ""
+          config_timezone: Asia/Dhaka
+          filename: github-pinned.svg
+          committer_branch: output
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+
+      - name: Stars and topics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: defUserName-404
+          template: classic
+          base: ""
+          config_timezone: Asia/Dhaka
+          filename: github-stars.svg
+          committer_branch: output
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_topics: yes
+          plugin_topics_mode: labels
+          plugin_topics_limit: 12
+
+      - name: Latest code
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: defUserName-404
+          template: classic
+          base: ""
+          config_timezone: Asia/Dhaka
+          filename: github-code.svg
+          committer_branch: output
+          plugin_code: yes
+          plugin_code_lines: 12
+          plugin_code_days: 14
+          plugin_code_visibility: public
+
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: defUserName-404
+          template: classic
+          base: ""
+          config_timezone: Asia/Dhaka
+          filename: github-activity.svg
+          committer_branch: output
+          plugin_activity: yes
+          plugin_activity_limit: 6
+          plugin_activity_days: 14
+          plugin_activity_visibility: public
