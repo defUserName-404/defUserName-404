@@ -12,8 +12,6 @@
 
 🎓 Bachelor of Science in Software Engineering.
 
-🌱 Always learning, always building.
-
 ---
 
 ### Currently ⚡
@@ -43,6 +41,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-1E88E5?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android-Development](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Drift](https://img.shields.io/badge/Drift-1E88E5?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Backend and Data**<br>
@@ -51,7 +51,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -77,39 +79,25 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Focus](https://github.com/defUserName-404/focus) | Offline, privacy-first Pomodoro timer and task manager for Android, iOS, Linux, macOS and Windows. | Flutter, Riverpod, Drift, SQLite |
+| [Focus](https://github.com/defUserName-404/focus)<br>![stars](https://img.shields.io/github/stars/defUserName-404/focus?style=flat) ![last commit](https://img.shields.io/github/last-commit/defUserName-404/focus?style=flat) | Offline, privacy-first Pomodoro timer and task manager for Android, iOS, Linux, macOS and Windows. | Flutter, Riverpod, Drift, SQLite |
 | Stockify | Offline-first desktop inventory app with live multi-user sync. *(private)* | Flutter, Go (FFI), WebSockets, PostgreSQL |
 | Zero Hunger | Real-time app matching food donors with nearby volunteers. *(private)* | Flutter, Supabase, PostGIS, FCM |
-| [tome](https://github.com/defUserName-404/tome) | Personal assistant that answers questions from your notes, books and docs, with citations. | Python, Redis Stack, RedisVL |
+| [tome](https://github.com/defUserName-404/tome)<br>![stars](https://img.shields.io/github/stars/defUserName-404/tome?style=flat) ![last commit](https://img.shields.io/github/last-commit/defUserName-404/tome?style=flat) | Personal assistant that answers questions from your notes, books and docs, with citations. | Python, Redis Stack, RedisVL |
 
 More on my [repositories](https://github.com/defUserName-404?tab=repositories).
 
 ---
 
 ### Follow Me on Social 👥
-[![github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/defUserName-404?tab=repositories)
 [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=plastic&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/def_UserName)
-[![stopstalk](https://img.shields.io/badge/StopStalk-red?style=plastic&logo=StopStalk&logoColor=white)](https://www.stopstalk.com/user/profile/def_UserName)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black)](https://leetcode.com/def_UserName/)
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=brown)](https://stackoverflow.com/users/15433896/def-username)
 [![hackerrank](https://img.shields.io/badge/-HackerRank-2EC866?style=plastic&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/def_UserName)
 
 ---
 
-## Stats 📊
+### Stats 📊
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=defUserName-404&theme=dark&background=151515&date_format=j%20M%5B%20Y%5D" height="165"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=defUserName-404&label=Profile+views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://raw.githubusercontent.com/defUserName-404/defUserName-404/output/github-metrics.svg" alt="GitHub metrics"/>
 </p>
